@@ -1,6 +1,8 @@
 import React from "react";
-
-function App() {
+import About from "./About";
+import NavBar from "./NavBar";
+import Home from "./Home";
+function App () {
   return (
     <div>
       <NavBar />
